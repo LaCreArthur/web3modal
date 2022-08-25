@@ -21,7 +21,7 @@ const providerOptions = {
   sequence: {
     package: sequence, // required
     options: {
-      appName: "My App" // optional
+      appName: "My App", // optional
       defaultNetwork: "polygon" // optional
     }
   }
